@@ -1,7 +1,4 @@
 @media only screen and (max-width: 1024px) {
-    body {
-        background-color: red;
-    }
 
     #body {
         flex-direction: column;
@@ -23,10 +20,6 @@
 }
 
 @media only screen and (max-width: 768px) {
-    
-    body {
-        background-color: green;
-    }
 
     footer {
         flex-direction: column;
